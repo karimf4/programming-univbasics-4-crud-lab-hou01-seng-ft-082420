@@ -7,7 +7,7 @@ def create_an_array
 end
 puts create_an_array 
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array
   ["wow", "I", "am", "learning" ]
 end
 puts create_an_array.push(maths)
