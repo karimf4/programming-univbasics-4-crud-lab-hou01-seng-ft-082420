@@ -7,8 +7,9 @@ def create_an_array
 end
 puts create_an_array 
 
-def add_element_to_end_of_array
-  ["wow", "I", "am", "learning" ]
+def add_element_to_end_of_array(array, element)
+  array = ["wow", "I", "am", "learning"]
+  element = ["maths"]
 end
 puts add_element_to_end_of_array.push("maths")
 
