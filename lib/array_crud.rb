@@ -8,8 +8,7 @@ end
 puts create_an_array 
 
 def add_element_to_end_of_array(array, element)
-  
-    
+  array << element
 end
 puts add_element_to_end_of_array(array, element).push 
 
