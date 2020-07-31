@@ -4,8 +4,8 @@ end
 
 def create_an_array
   ["wow", "I", "am", "learning" ]
-  
 end
+puts create_an_array 
 
 def add_element_to_end_of_array(array, element)
   
