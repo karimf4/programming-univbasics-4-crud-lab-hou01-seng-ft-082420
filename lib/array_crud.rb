@@ -11,7 +11,7 @@ def add_element_to_end_of_array(array, element)
   array = ["wow", "I", "am", "learning"]
   element = ["maths"]
 end
-puts add_element_to_end_of_array(array, element).push element
+puts add_element_to_end_of_array(array, element).push 
 
 def add_element_to_start_of_array(array, element)
   
